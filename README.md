@@ -1,4 +1,4 @@
-# lugo-valdes-
+# 
 # Actividad 8 – Nuevas Tecnologías
 
 **Instructor:** Diego Alejandro Barragán Vargas – SENA
